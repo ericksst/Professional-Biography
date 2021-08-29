@@ -1,10 +1,10 @@
 # Professional Biography
 
-## Contact
+### Contact
 * Email: ericksst@mail.uc.edu
 
-## Co-op Work Experience
+### Co-op Work Experience
 * TBD
 
-## Project Sought
+### Project Sought
 * TBD
