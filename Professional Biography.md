@@ -16,5 +16,9 @@
 	* Worked with International teams to ensure delivery of the product.
 	* Assisted in training and on-boarding of new interns and co-ops.
 
+### Languages and Operating Systems
+* Python, C++, Java
+* Windows, Linux
+
 ### Project Sought
 * I am seeking a capstone project in the field of Computer Science involving programming, and would like experience in app and/or web development
